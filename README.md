@@ -14,3 +14,6 @@ Indian Premier League (better known as IPL) is a short format (T-20) Mens Cricke
 • Replacing NaN values in column 'player_of_match' with 'undeclared'
 • Replacing null values under columns 'umpire1', 'umpire2' and 'city' with 'unknown', 'unknown' and 'Dubai' respectively
 • Replacing null values under columns 'umpire1', 'umpire2' and 'city' with 'unknown', 'unknown' and 'Dubai' respectively
+# questions that have been answered through this eda.
+1. As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
+2. Suggest teams or players a company should endorse for its products.
