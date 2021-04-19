@@ -1,4 +1,4 @@
-# ipl-eda
+# IPL-EDA
 Indian Premier League (better known as IPL) is a short format (T-20) Mens Cricket tournament that is hosted in India. It is currently presided over by the Board of Cricket Control of India (BCCI). The Tournament comprises of 8 teams who complete with each other in a league format, which is followed by a knockout Stage. Some of the Teams who Played previously are no more in action (For e.g. Deccan Chargers, Kochi Tuskers, Gujrat Lions, Pune Warriors etc). Two teams have been banned for two seasons, but have been a part of the tournament for the rest. Let's check upon our analysis further. Just a note, the data available over her is from 2008-2019, and all the data findings have been as per the data.
 # Process & Software remove
 1. We used Python 3 as our main programming software for our programming and used it to explore the data.
@@ -14,6 +14,6 @@ Indian Premier League (better known as IPL) is a short format (T-20) Mens Cricke
 11. Replacing NaN values in column 'player_of_match' with 'undeclared'
 12. Replacing null values under columns 'umpire1', 'umpire2' and 'city' with 'unknown', 'unknown' and 'Dubai' respectively
 13. Replacing null values under columns 'umpire1', 'umpire2' and 'city' with 'unknown', 'unknown' and 'Dubai' respectively
-# questions that have been answered through this eda.
+# Questions that have been answered through this eda.
 1. As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 2. Suggest teams or players a company should endorse for its products.
